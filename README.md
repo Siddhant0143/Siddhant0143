@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on startup's or Web developer
 - 📫 How to reach me siddhantphase724@gmail.com
+      i am studying computer engineering 
 
 <!---
 Siddhant0143/Siddhant0143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
